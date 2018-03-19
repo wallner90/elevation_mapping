@@ -3,7 +3,7 @@ project(elevation_mapping_demos)
 
 ## Find catkin macros and libraries
 find_package(catkin REQUIRED COMPONENTS
-  elevation_mapping
+  elevation_mapping_eth
   grid_map_rviz_plugin
   rviz
 )
@@ -22,7 +22,7 @@ catkin_package(
   #INCLUDE_DIRS include
   #LIBRARIES
   CATKIN_DEPENDS
-    elevation_mapping
+    elevation_mapping_eth
     grid_map_rviz_plugin
     rviz
   #DEPENDS

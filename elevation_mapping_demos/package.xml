@@ -9,7 +9,7 @@
   <url type="bugtracker">http://github.com/ethz-asl/elevation_mapping/issues</url>
   <author email="pfankhauser@ethz.ch">Péter Fankhauser</author>
   <buildtool_depend>catkin</buildtool_depend>
-  <depend>elevation_mapping</depend>
+  <depend>elevation_mapping_eth</depend>
   <depend>grid_map_rviz_plugin</depend>
   <depend>rviz</depend>
 </package>
